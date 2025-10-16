@@ -19,3 +19,5 @@
 [Homer’s Endless Dream (Version 4)](https://playground.babylonjs.com/#535BM8)
 
 Предлагайте свои варианты, как развить эту идею в будущем… Возможно, кому-то действительно понадобится моя работа, а кто-то вдохновится ею и создаст что-то свое.
+
+[Homer’s Endless Dream (Version 8) | Babylon.js Playground](https://playground.babylonjs.com/#JXU2O0)
