@@ -20,4 +20,13 @@
 
 Предлагайте свои варианты, как развить эту идею в будущем… Возможно, кому-то действительно понадобится моя работа, а кто-то вдохновится ею и создаст что-то свое.
 
+[Homer’s Endless Dream (Version 5) | Babylon.js Playground](https://playground.babylonjs.com/#SDZH5B#0)
+
+
+[Homer’s Endless Dream (Version 6) | Babylon.js Playground](https://playground.babylonjs.com/#OVRKAF#0)
+
+
+[Homer’s Endless Dream (Version 7) | Babylon.js Playground](https://playground.babylonjs.com/#H94UAI#2)
+
+
 [Homer’s Endless Dream (Version 8) | Babylon.js Playground](https://playground.babylonjs.com/#JXU2O0)
