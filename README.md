@@ -28,5 +28,6 @@
 
 [Homer’s Endless Dream (Version 7) | Babylon.js Playground](https://playground.babylonjs.com/#H94UAI#2)
 
+Теперь нужно чделать что-бы изображения генерировались не из набора URL заранее установленных картинок а из случайных картинок с сервиса Lorem Picsum.
 
 [Homer’s Endless Dream (Version 8) | Babylon.js Playground](https://playground.babylonjs.com/#JXU2O0)
