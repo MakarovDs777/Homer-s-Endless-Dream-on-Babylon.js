@@ -22,6 +22,7 @@
 
 [Homer’s Endless Dream (Version 5) | Babylon.js Playground](https://playground.babylonjs.com/#SDZH5B#0)
 
+А теперь давайте сделаем так что-бы картинки случайно вращались по своей случайным образом.
 
 [Homer’s Endless Dream (Version 6) | Babylon.js Playground](https://playground.babylonjs.com/#OVRKAF#0)
 
