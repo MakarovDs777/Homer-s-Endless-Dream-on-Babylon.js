@@ -26,6 +26,7 @@
 
 [Homer’s Endless Dream (Version 6) | Babylon.js Playground](https://playground.babylonjs.com/#OVRKAF#0)
 
+Но нужно что-бы они не только случайно вращались но и не перемещались плавно случайным образом.
 
 [Homer’s Endless Dream (Version 7) | Babylon.js Playground](https://playground.babylonjs.com/#H94UAI#2)
 
